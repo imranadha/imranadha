@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imranadha
-- 👀 I’m interested in python for now.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in full stack development for now.
+- 🌱 I’m currently learning git and github.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
